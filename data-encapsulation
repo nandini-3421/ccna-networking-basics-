@@ -1,0 +1,14 @@
+# Data Encapsulation
+
+Data encapsulation is the process of wrapping data with protocol information.
+
+## 🔁 Process
+
+1. Application → Data
+2. Transport → Segment (adds port numbers)
+3. Network → Packet (adds IP)
+4. Data Link → Frame (adds MAC)
+5. Physical → Bits
+
+## Reverse Process
+- Called De-encapsulation
