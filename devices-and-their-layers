@@ -1,0 +1,13 @@
+# Networking Devices & OSI Layers
+
+## Devices Mapping
+
+| Device | OSI Layer |
+|------|----------|
+| Hub | Layer 1 |
+| Switch | Layer 2 |
+| Router | Layer 3 |
+| Firewall | Layer 3/4 |
+| Load Balancer | Layer 4/7 |
+
+📌 Interview Tip: Routers do NOT forward broadcasts.
