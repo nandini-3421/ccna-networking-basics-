@@ -1,0 +1,16 @@
+# Collision vs Broadcast Domains
+
+## Collision Domain
+- Where data collisions can occur
+- Switch creates separate collision domains per port
+
+## Broadcast Domain
+- Where broadcast traffic is received
+- Router separates broadcast domains
+
+## Summary
+| Device | Collision Domain | Broadcast Domain |
+|------|------------------|------------------|
+| Hub | One | One |
+| Switch | Multiple | One |
+| Router | Multiple | Multiple |
