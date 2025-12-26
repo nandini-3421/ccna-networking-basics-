@@ -1,0 +1,21 @@
+# Basic Networking Terms
+
+## IP Address
+- Logical address
+- Identifies a device
+
+## MAC Address
+- Physical address
+- Burned into NIC
+
+## Bandwidth
+- Maximum data capacity
+
+## Latency
+- Delay in transmission
+
+## Throughput
+- Actual data transferred
+
+## Packet Loss
+- Dropped packets during transmission
